@@ -70,7 +70,10 @@ userid,itemid,label
 ### 任务
 
 使用训练数据训练GNN模型，并尝试优化模型，在测试集上验证模型的效果。
-这里提供了`lgbbaseline.py`与`gnn_baseline.ipynb`两个基线。
+这里提供了`lgbbaseline.py`与`gnn_baseline.ipynb`两个基线。测试的环境如下：
+`python==3.7.10`,且依赖包如`requirements.txt`。
+巅峰内存 < 16G, 如果使用GPU，巅峰显存 <  10G
+
 
 **bonus**
 

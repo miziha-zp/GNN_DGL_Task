@@ -8,7 +8,7 @@ DGL是一个易于使用、高性能和可扩展的Python包，用于深入学�
 
 ## 重要的网站
 
-### [DGL官网(dgl.ai)](dgl.ai)
+### [DGL官网(dgl.ai)](https://www.dgl.ai/)
 
 ### [官方教程(A Blitz Introduction to DGL)](https://docs.dgl.ai/tutorials/blitz/index.html)
 
